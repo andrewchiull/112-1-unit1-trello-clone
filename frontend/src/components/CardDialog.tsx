@@ -92,7 +92,7 @@ export default function CardDialog(props: CardDialogProps) {
       }
       fetchCards();
     } catch (error) {
-      alert("Error: Failed to save card");
+      alert("Error: Failed to save card. Please try to add some description and try again.");
     } finally {
       handleClose();
     }

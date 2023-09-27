@@ -4,7 +4,6 @@
 ## Reference
 
 - (Frontend linter init settings for React) [ntuee-web-programming/112-1-unit1-trello-clone](https://github.com/ntuee-web-programming/112-1-unit1-trello-clone)
-    - [local README](./../refcode/112-1-unit1-trello-clone/README.md)
 
 - ~~[ntuee-web-programming/112-1-unit1-todo-list](https://github.com/ntuee-web-programming/112-1-unit1-todo-list)~~ // DEPRECATED
     - [local README](./../refcode/112-1-unit1-todo-list/README.md)
